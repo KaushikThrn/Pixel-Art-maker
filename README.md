@@ -15,7 +15,6 @@
 
 ## Dependencies
 
-* jQuery3.2.1
-* Google Fonts
+* jQuery
 
 
